@@ -15,4 +15,4 @@ A simple "SERVICE REGISTRATION FORM" using Google Apps Script
 3) Web App URL 
 ### ![](https://github.com/Mdadilfarooq/Apps_Script-Registrationform/blob/main/Pictures/URL%20OF%20WEB%20APP.jpg)
 
-#### [CLICK HERE](https://script.google.com/macros/s/AKfycbyXF3pvugdDWfuajOfTU3qsxmUTJE36W4iS1T7kqqTtHdszQzeq9EWY_RCxMNx0a4K3/exec) to Try Out this project or [CLICK HERE](https://script.google.com/macros/s/AKfycbzC-iORoda1cwCGMMtbyWKiQF2JfXWDobeRcRKX7OYcjacnMglYEpaIx4t3bBELOh_u/exec) to Try Out a simpler project
+#### Visit [tryout.devresearch.ml](https://tryout.devresearch.ml/) to Try Out this project.
